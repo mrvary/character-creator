@@ -11,6 +11,13 @@
   width: 65%;
 }
 
+.bottomBar {
+  height: 400px;
+  position: fixed;
+  bottom: 0px;
+  background-color: hsl(195deg, 20%, 86%);
+}
+
 .title {
   font-size: 2.5rem;
   font-weight: 600;
